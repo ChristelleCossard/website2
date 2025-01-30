@@ -3,7 +3,7 @@
 :root{
 	--main-background: #e0b2f5;
 	--main-fonts-color: #fff;
-	--main-decor-color:#00a9e2;
+	--main-decor-color:hsl(291, 16%, 74%);
     --main-header-background: light-grey;
 	--main-font-family: 'Poppins', sans-serif;
 }
